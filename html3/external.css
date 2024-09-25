@@ -1,0 +1,6 @@
+body {background-color: aqua;}
+h1 {font: italic; color: blueviolet;}
+h2 {color: brown;}
+h3 {font-size: 400%;}
+table,th,td {border: 1px solid blue; border-collapse: collapse;}
+tr:nth-child(even) {background-color: bisque;}
